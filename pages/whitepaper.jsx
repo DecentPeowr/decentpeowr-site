@@ -3,10 +3,11 @@ export default function Whitepaper() {
     <div style={{background:'#000', color:'#fff', minHeight:'100vh', padding:'60px 20px', fontFamily:'Arial, sans-serif', lineHeight:'1.7'}}>
       <div style={{maxWidth:'900px', margin:'0 auto'}}>
         <center>
-          <img src="data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiIHZpZXdCb3g9IjAgMCAxMjAgMTIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxjaXJjbGUgY3g9IjYwIiBjeT0iNjAiIHI9IjYwIiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjgiLz4KICA8cGF0aCBkPSJNNDAgODAgTDYwIDQwIEw4MCA3MCBMNjAgNTAgWiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjQiLz4KICA8cGF0aCBkPSJNNTAgOTAgTDcwIDUwIEw5MCA4MCBMNzAgNjAgWiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjQiLz4KPC9zdmc+Cg==" alt="Decent Peowr DAO" style={{width:'120px', marginBottom:'20px'}} />
-          <h1 style={{fontSize:'48px', margin:'0'}}>Decent Peowr DAO</h1>
-          <p style={{fontSize:'24px', color:'#00ffff'}}>Decentralized People's Power – Finally Decent.</p>
-          <p>Version 1.0 – November 2025</p>
+         <div style={{textAlign:'center', margin:'40px 0'}}>
+  <a href="/full-whitepaper" style={{background:'#00ffff', color:'#000', padding:'16px 32px', borderRadius:'8px', textDecoration:'none', fontWeight:'bold', fontSize:'20px'}}>
+    Read the Full 15-Page Whitepaper →
+  </a>
+</div>
         </center>
 
         <h2>Executive Summary</h2>
